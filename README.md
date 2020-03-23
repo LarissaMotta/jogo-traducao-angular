@@ -1,6 +1,6 @@
 # Jogo das Traduções
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
+O Jogo de Tradução de inglês para português está hospedado: https://larissamotta.github.io/jogo-traducao-angular
 
 ## Development server
 
